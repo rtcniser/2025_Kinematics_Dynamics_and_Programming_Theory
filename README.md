@@ -5,3 +5,6 @@ This is a repository containing all our theory work done in odd semester of 2025
 This encompasses introductory notes that can be used for teaching and reffering robotics and can help in building mechanical systems in robotics.
 
 $$S\cap T$$
+
+
+[GitHub logo](https://example.com/logo.png
