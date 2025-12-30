@@ -7,4 +7,4 @@ This encompasses introductory notes that can be used for teaching and reffering 
 $$S\cap T$$
 
 
-![GitHub logo](https://example.com/logo.png)
+![GitHub logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
