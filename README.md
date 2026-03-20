@@ -1,4 +1,4 @@
-# 2025_Kinematics_And_Dynamics_Theory
+# 2025 Kinematics, Dynamics and Programming Theory
 ## Introduction
 This is a repository containing all our theory work done in odd semester of 2025 
 ## Purpose
